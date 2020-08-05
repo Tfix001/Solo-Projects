@@ -1,0 +1,3 @@
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/CMakeFiles/edit_cache.dir
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/CMakeFiles/rebuild_cache.dir
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/CMakeFiles/RPG_Game.dir

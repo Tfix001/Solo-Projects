@@ -1,0 +1,3 @@
+/home/csmajs/tfix001/solo/Solo-Projects/Tic Tac Toe/CMakeFiles/rebuild_cache.dir
+/home/csmajs/tfix001/solo/Solo-Projects/Tic Tac Toe/CMakeFiles/edit_cache.dir
+/home/csmajs/tfix001/solo/Solo-Projects/Tic Tac Toe/CMakeFiles/game.dir

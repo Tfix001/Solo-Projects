@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/tfix001/solo/Solo-Projects/Tic Tac Toe/main.cpp
+iostream
+-
+map.hpp
+/home/csmajs/tfix001/solo/Solo-Projects/Tic Tac Toe/map.hpp
+
+/home/csmajs/tfix001/solo/Solo-Projects/Tic Tac Toe/map.hpp
+iostream
+-
+vector
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/main.cpp
+iostream
+-
+player.hpp
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/player.hpp
+
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/node.hpp
+string
+-
+
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/player.hpp
+vector
+-
+node.hpp
+/home/csmajs/tfix001/solo/Solo-Projects/RPG/node.hpp
+
